@@ -18,9 +18,9 @@ This repository documents the cloud architecture, deployment workflow, and secur
 ## Tech Stack
 • WordPress  
 • AWS EC2  
-• Web Server: Apache / Nginx  
-• Database: MySQL / MariaDB  
-• HTTPS: Let’s Encrypt / Cloudflare  
+• Web Server: Apache   
+• Database: MySQL 
+• HTTPS: Let’s Encrypt   
 
 ## Deployment Summary
 • Provisioned EC2 instance and configured security groups  
